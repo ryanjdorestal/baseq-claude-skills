@@ -1,0 +1,9 @@
+[
+  {"id": "D-071", "kind": "grim", "mean": 3.42, "n": 25},
+  {"id": "D-072", "kind": "percent", "percent": 37.5, "n": 25},
+  {"id": "D-073", "kind": "delta", "before": 75.6, "after": 85.3, "claimed": 15,
+   "note": "the abstract claims 15%"},
+  {"id": "D-074", "kind": "pvalue", "test": "t", "stat": 1.21, "df": 48, "reported": 0.003},
+  {"id": "D-075", "kind": "grim", "mean": 3.44, "n": 25},
+  {"id": "D-076", "kind": "sd-range", "mean": 3.42, "sd": 0.9, "n": 25, "min": 1, "max": 5}
+]

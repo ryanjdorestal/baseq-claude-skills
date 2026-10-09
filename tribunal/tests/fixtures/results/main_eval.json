@@ -1,0 +1,12 @@
+{
+  "eval": {
+    "widgetnet": {"accuracy": 85.28, "f1": 0.732},
+    "baseline_strongest": {"accuracy": 75.61, "f1": 0.664}
+  },
+  "runs": [
+    {"seed": 0, "accuracy": 84.9},
+    {"seed": 1, "accuracy": 85.7},
+    {"seed": 2, "accuracy": 85.2}
+  ],
+  "config": {"epochs": 40, "batch_size": 32}
+}

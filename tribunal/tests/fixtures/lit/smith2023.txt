@@ -1,0 +1,6 @@
+Scaling Laws for Widget Networks
+Alice Smith
+Journal of Widget Research, 2023
+
+Abstract. We study how widget network performance scales with data and parameters.
+We find a power-law relationship across three orders of magnitude.

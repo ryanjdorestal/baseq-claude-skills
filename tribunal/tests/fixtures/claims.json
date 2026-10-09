@@ -1,0 +1,12 @@
+[
+  {"id": "D-041", "value": "85.3", "file": "results/main_eval.json",
+   "path": "$.eval.widgetnet.accuracy"},
+  {"id": "D-042", "value": "75.6", "file": "results/main_eval.json",
+   "path": "$.eval.baseline_strongest.accuracy"},
+  {"id": "D-043", "value": "40", "file": "results/main_eval.json",
+   "path": "$.config.epochs"},
+  {"id": "D-044", "value": "92.1", "file": "results/main_eval.json",
+   "path": "$.eval.widgetnet.accuracy"},
+  {"id": "D-045", "value": "3.42", "file": "results/human_study.json",
+   "path": "$.mean_rating"}
+]
